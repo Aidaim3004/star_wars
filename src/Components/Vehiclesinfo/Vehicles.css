@@ -1,0 +1,25 @@
+.detail-img{
+    max-width:  100%;
+}
+.vehicles-page{
+
+    border-radius: 5px;
+}
+.vehicles-info{
+    background-color: #FFF;
+    color: black;
+    padding: 23px;
+}
+.vehicles-name{
+    font-size: 25px;
+    font-weight: 700;
+    margin: 5px 0 10px;
+}
+
+.vehicles-subtitle{
+    color: #111111;
+    list-style: none;
+    line-height: 15px;
+    padding-top: 10px;
+    color: rgba(0, 0, 0, .54) !important;;
+}

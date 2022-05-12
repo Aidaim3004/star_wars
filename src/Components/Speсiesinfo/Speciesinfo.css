@@ -1,0 +1,19 @@
+.species-info{
+    background-color: #FFF;
+    border-radius: 5px;
+
+}
+.species-name{
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 0 10px;
+
+}
+.species-subtitle{
+    color: #111111;
+    list-style: none;
+    line-height: 30px;
+    padding-top: 10px;
+    color: rgba(0, 0, 0, .54) !important;;
+}

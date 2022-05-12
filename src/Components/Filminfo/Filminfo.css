@@ -1,0 +1,21 @@
+.film-title {
+    font-size: 28px;
+    font-weight: 700;
+    border-bottom: 1px solid white;
+    margin-bottom: 15px;
+    color: #111111;
+}
+
+.film-subtitle {
+    line-height: 30px;
+    font-size: 18px;
+    color: rgba(0, 0, 0, .54) !important;;
+
+}
+
+.film-content {
+    background-color: rgba(255, 255, 255, 0.98);
+    padding: 25px;
+    border-radius: 3px;
+
+}
