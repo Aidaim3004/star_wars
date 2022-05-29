@@ -44,7 +44,7 @@ const Homepage = () => {
       </div>
       <div className="col-4">
        <Link to = "/starships">
-         <div className="category-item starships">
+         <div className ="category-item starships">
            <img src={starships} alt=""/>
            <h2><span>
               STARSHIPS

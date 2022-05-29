@@ -90,7 +90,7 @@
 @media (max-width: 576px) {
     /*320-576*/
     .container {
-        max-width: 300px;
+        max-width: 390px;
     }
     .logo {
         max-width: 40%;
@@ -104,9 +104,27 @@
         padding: 22px 0;
     }
 
-    .col-4 {
+    .col-4  {
         width: 50%;
         padding: 0 15px;
+    }
+    .col-6{
+        width: 100%;
+    }
+
+    img{
+        max-width: 100%;
+    }
+    .film-title {
+        font-size: 20px;
+        margin-bottom: 3px;
+    }
+    .film-subtitle {
+        line-height: 20px;
+        font-size: 14px;
+    }
+    .film-content {
+        padding: 15px;
     }
 
     .category-item img {

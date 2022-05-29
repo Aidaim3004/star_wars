@@ -14,6 +14,7 @@ import Filminfo from "./Components/Filminfo";
 import Speciesinfo from "./Components/Speсiesinfo";
 import Vehiclesinfo from "./Components/Vehiclesinfo";
 import Planetsinfo from "./Components/Planetsinfo";
+import CharactersInfo from "./Components/CharactersInfo";
 
 
 const App = () => {
@@ -24,6 +25,7 @@ const App = () => {
        <Routes>
          <Route path="/" element={<HomePage />} />
          <Route path="/characters" element={<Characters />} />
+         <Route path="/characters/:id" element={<CharactersInfo />} />
          <Route path="/species" element={<Species />} />
          <Route path="/species/:id" element={<Speciesinfo />} />
          <Route path="/films" element={<Films />} />
